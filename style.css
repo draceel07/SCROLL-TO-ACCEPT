@@ -19,6 +19,7 @@ body {
   }
 
   button {
+    color:white;
     border: 0;
     background: #ff0060;
     font-size: 1rem;
