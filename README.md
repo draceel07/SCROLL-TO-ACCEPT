@@ -3,4 +3,4 @@ CREATED A SIMPLE SCROLL TO ACCEPT FEATURE WITH HTML CSS AND JAVASCRIPT
 [CLICK HERE](https://draceel07.github.io/SCROLL-TO-ACCEPT/)
 
 ####SCREENSHOT
-<img src="Capture.jpg">
+<img src="Capture.JPG">
